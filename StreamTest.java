@@ -35,8 +35,6 @@ public String toString() {
 return name + " - " + price + " - In Stock: " + stockQuantity;
 }
 
-Page 7
-
 public double getPrice() {
 return price;
 }
